@@ -1,0 +1,686 @@
+[
+    {
+        "context": "The Goods and Services Tax (GST) is an indirect tax introduced in India on 1st July 2017. It replaced various cascading taxes imposed by the central and state governments. GST is designed to create a single, unified market by streamlining the tax structure.",
+        "qas": [
+            {
+                "id": "GST001",
+                "is_impossible": false,
+                "question": "What is GST?",
+                "answers": [
+                    {
+                        "text": "an indirect tax introduced in India on 1st July 2017",
+                        "answer_start": 38
+                    }
+                ]
+            },
+            {
+                "id": "GST002",
+                "is_impossible": false,
+                "question": "When was GST implemented in India?",
+                "answers": [
+                    {
+                        "text": "1st July 2017",
+                        "answer_start": 69
+                    }
+                ]
+            },
+            {
+                "id": "GST003",
+                "is_impossible": false,
+                "question": "What was the purpose of implementing GST?",
+                "answers": [
+                    {
+                        "text": "to create a single, unified market by streamlining the tax structure",
+                        "answer_start": 143
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST is categorized into Central GST (CGST), State GST (SGST), and Integrated GST (IGST). CGST and SGST are applied to intra-state transactions, while IGST is applied to inter-state transactions and imports.",
+        "qas": [
+            {
+                "id": "GST004",
+                "is_impossible": false,
+                "question": "What are the types of GST?",
+                "answers": [
+                    {
+                        "text": "Central GST (CGST), State GST (SGST), and Integrated GST (IGST)",
+                        "answer_start": 24
+                    }
+                ]
+            },
+            {
+                "id": "GST005",
+                "is_impossible": false,
+                "question": "Which GST is applied to inter-state transactions?",
+                "answers": [
+                    {
+                        "text": "Integrated GST (IGST)",
+                        "answer_start": 115
+                    }
+                ]
+            },
+            {
+                "id": "GST006",
+                "is_impossible": false,
+                "question": "Which GST is used for intra-state transactions?",
+                "answers": [
+                    {
+                        "text": "CGST and SGST",
+                        "answer_start": 74
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The GST Council is a governing body established to make recommendations on GST rates, exemptions, and laws. It comprises the Union Finance Minister and the Finance Ministers of all states and Union Territories.",
+        "qas": [
+            {
+                "id": "GST007",
+                "is_impossible": false,
+                "question": "What is the GST Council?",
+                "answers": [
+                    {
+                        "text": "a governing body established to make recommendations on GST rates, exemptions, and laws",
+                        "answer_start": 24
+                    }
+                ]
+            },
+            {
+                "id": "GST008",
+                "is_impossible": false,
+                "question": "Who are the members of the GST Council?",
+                "answers": [
+                    {
+                        "text": "the Union Finance Minister and the Finance Ministers of all states and Union Territories",
+                        "answer_start": 92
+                    }
+                ]
+            },
+            {
+                "id": "GST009",
+                "is_impossible": false,
+                "question": "What is the role of the GST Council?",
+                "answers": [
+                    {
+                        "text": "to make recommendations on GST rates, exemptions, and laws",
+                        "answer_start": 49
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST includes multiple tax slabs, including 5%, 12%, 18%, and 28%. Essential goods such as food grains are taxed at 0%, while luxury items fall under the 28% tax slab.",
+        "qas": [
+            {
+                "id": "GST010",
+                "is_impossible": false,
+                "question": "What are the GST tax slabs?",
+                "answers": [
+                    {
+                        "text": "5%, 12%, 18%, and 28%",
+                        "answer_start": 38
+                    }
+                ]
+            },
+            {
+                "id": "GST011",
+                "is_impossible": false,
+                "question": "What is the GST rate for essential goods like food grains?",
+                "answers": [
+                    {
+                        "text": "0%",
+                        "answer_start": 88
+                    }
+                ]
+            },
+            {
+                "id": "GST012",
+                "is_impossible": false,
+                "question": "Which items fall under the 28% tax slab?",
+                "answers": [
+                    {
+                        "text": "luxury items",
+                        "answer_start": 116
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST revenue prediction involves forecasting the total revenue generated from GST collections. Various factors influence predictions, such as economic growth, consumer spending, and government policies. Advanced models, including AI and machine learning, are increasingly used for accurate forecasting.",
+        "qas": [
+            {
+                "id": "GST013",
+                "is_impossible": false,
+                "question": "What is GST revenue prediction?",
+                "answers": [
+                    {
+                        "text": "forecasting the total revenue generated from GST collections",
+                        "answer_start": 33
+                    }
+                ]
+            },
+            {
+                "id": "GST014",
+                "is_impossible": false,
+                "question": "What factors influence GST revenue predictions?",
+                "answers": [
+                    {
+                        "text": "economic growth, consumer spending, and government policies",
+                        "answer_start": 101
+                    }
+                ]
+            },
+            {
+                "id": "GST015",
+                "is_impossible": false,
+                "question": "Which technologies are used for accurate GST forecasting?",
+                "answers": [
+                    {
+                        "text": "AI and machine learning",
+                        "answer_start": 194
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "AI models like neural networks are being used to predict GST revenue by analyzing historical data and identifying patterns. These models provide better accuracy than traditional statistical methods.",
+        "qas": [
+            {
+                "id": "GST016",
+                "is_impossible": false,
+                "question": "What kind of models are used to predict GST revenue?",
+                "answers": [
+                    {
+                        "text": "AI models like neural networks",
+                        "answer_start": 3
+                    }
+                ]
+            },
+            {
+                "id": "GST017",
+                "is_impossible": false,
+                "question": "Why are AI models preferred over traditional methods for GST predictions?",
+                "answers": [
+                    {
+                        "text": "These models provide better accuracy than traditional statistical methods",
+                        "answer_start": 120
+                    }
+                ]
+            },
+            {
+                "id": "GST018",
+                "is_impossible": false,
+                "question": "What do AI models analyze to predict GST revenue?",
+                "answers": [
+                    {
+                        "text": "historical data and identifying patterns",
+                        "answer_start": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST collections are affected by seasonal variations such as festive seasons, which see an increase in consumer spending. Predictions need to consider these periodic trends for accuracy.",
+        "qas": [
+            {
+                "id": "GST019",
+                "is_impossible": false,
+                "question": "What causes seasonal variations in GST collections?",
+                "answers": [
+                    {
+                        "text": "festive seasons, which see an increase in consumer spending",
+                        "answer_start": 39
+                    }
+                ]
+            },
+            {
+                "id": "GST020",
+                "is_impossible": false,
+                "question": "Why should predictions consider periodic trends?",
+                "answers": [
+                    {
+                        "text": "for accuracy",
+                        "answer_start": 140
+                    }
+                ]
+            },
+            {
+                "id": "GST021",
+                "is_impossible": true,
+                "question": "What is the GST rate during festive seasons?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Monthly GST revenue reports are essential for tracking trends and improving prediction models. They help policymakers adjust strategies to achieve financial targets.",
+        "qas": [
+            {
+                "id": "GST022",
+                "is_impossible": false,
+                "question": "Why are monthly GST revenue reports important?",
+                "answers": [
+                    {
+                        "text": "for tracking trends and improving prediction models",
+                        "answer_start": 41
+                    }
+                ]
+            },
+            {
+                "id": "GST023",
+                "is_impossible": false,
+                "question": "How do GST reports help policymakers?",
+                "answers": [
+                    {
+                        "text": "They help policymakers adjust strategies to achieve financial targets",
+                        "answer_start": 90
+                    }
+                ]
+            },
+            {
+                "id": "GST024",
+                "is_impossible": false,
+                "question": "What do monthly GST revenue reports track?",
+                "answers": [
+                    {
+                        "text": "trends",
+                        "answer_start": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Predicting GST revenue helps in financial planning and budget allocation. Governments use these predictions to plan infrastructure projects and public welfare schemes.",
+        "qas": [
+            {
+                "id": "GST025",
+                "is_impossible": false,
+                "question": "Why is GST revenue prediction important?",
+                "answers": [
+                    {
+                        "text": "for financial planning and budget allocation",
+                        "answer_start": 25
+                    }
+                ]
+            },
+            {
+                "id": "GST026",
+                "is_impossible": false,
+                "question": "How do governments use GST revenue predictions?",
+                "answers": [
+                    {
+                        "text": "to plan infrastructure projects and public welfare schemes",
+                        "answer_start": 82
+                    }
+                ]
+            },
+            {
+                "id": "GST027",
+                "is_impossible": false,
+                "question": "What is the purpose of financial planning in GST?",
+                "answers": [
+                    {
+                        "text": "budget allocation",
+                        "answer_start": 58
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST revenue projections for 2025 indicate growth due to increased compliance and digitalization of tax systems. These improvements aim to reduce evasion and broaden the tax base.",
+        "qas": [
+            {
+                "id": "GST028",
+                "is_impossible": false,
+                "question": "What factors contribute to GST revenue growth in 2025?",
+                "answers": [
+                    {
+                        "text": "increased compliance and digitalization of tax systems",
+                        "answer_start": 47
+                    }
+                ]
+            },
+            {
+                "id": "GST029",
+                "is_impossible": false,
+                "question": "How does digitalization affect GST revenue?",
+                "answers": [
+                    {
+                        "text": "It reduces evasion and broadens the tax base",
+                        "answer_start": 117
+                    }
+                ]
+            },
+            {
+                "id": "GST030",
+                "is_impossible": true,
+                "question": "What was the GST revenue in 2024?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Goods and Services Tax (GST) is a unified indirect tax system implemented in India on July 1, 2017. It replaced multiple indirect taxes like VAT, Service Tax, and Excise Duty, creating a single tax for the entire country.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_001",
+                "is_impossible": false,
+                "question": "When was GST implemented in India?",
+                "answers": [
+                    {
+                        "text": "July 1, 2017",
+                        "answer_start": 73
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_002",
+                "is_impossible": false,
+                "question": "What taxes did GST replace?",
+                "answers": [
+                    {
+                        "text": "VAT, Service Tax, and Excise Duty",
+                        "answer_start": 110
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_003",
+                "is_impossible": false,
+                "question": "What kind of tax is GST?",
+                "answers": [
+                    {
+                        "text": "a unified indirect tax system",
+                        "answer_start": 26
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "One of the key features of GST is its ability to eliminate the cascading effect of taxes. This means that tax is levied only on the value addition at each stage of the supply chain.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_004",
+                "is_impossible": false,
+                "question": "What is one key feature of GST?",
+                "answers": [
+                    {
+                        "text": "its ability to eliminate the cascading effect of taxes",
+                        "answer_start": 22
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_005",
+                "is_impossible": false,
+                "question": "What does eliminating the cascading effect of taxes mean?",
+                "answers": [
+                    {
+                        "text": "tax is levied only on the value addition at each stage of the supply chain",
+                        "answer_start": 81
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST is a destination-based tax system, meaning the tax is collected by the state where the goods or services are consumed rather than where they are produced.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_006",
+                "is_impossible": false,
+                "question": "What type of tax system is GST?",
+                "answers": [
+                    {
+                        "text": "a destination-based tax system",
+                        "answer_start": 6
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_007",
+                "is_impossible": false,
+                "question": "Which state collects GST in a destination-based tax system?",
+                "answers": [
+                    {
+                        "text": "the state where the goods or services are consumed",
+                        "answer_start": 68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST has four tax slabs in India: 5%, 12%, 18%, and 28%. Different goods and services are categorized under these slabs to determine the applicable tax rate.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_008",
+                "is_impossible": false,
+                "question": "What are the tax slabs under GST?",
+                "answers": [
+                    {
+                        "text": "5%, 12%, 18%, and 28%",
+                        "answer_start": 26
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_009",
+                "is_impossible": false,
+                "question": "How is the applicable tax rate determined under GST?",
+                "answers": [
+                    {
+                        "text": "Different goods and services are categorized under these slabs",
+                        "answer_start": 79
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST simplifies tax compliance by offering a common portal for registration, return filing, and payment. This unified platform reduces the paperwork for businesses.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_010",
+                "is_impossible": false,
+                "question": "How does GST simplify tax compliance?",
+                "answers": [
+                    {
+                        "text": "by offering a common portal for registration, return filing, and payment",
+                        "answer_start": 39
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_011",
+                "is_impossible": false,
+                "question": "What does the unified platform of GST reduce?",
+                "answers": [
+                    {
+                        "text": "the paperwork for businesses",
+                        "answer_start": 104
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The GST Council is responsible for making recommendations on rates, exemptions, and other policy decisions. It includes representatives from both central and state governments.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_012",
+                "is_impossible": false,
+                "question": "What is the role of the GST Council?",
+                "answers": [
+                    {
+                        "text": "making recommendations on rates, exemptions, and other policy decisions",
+                        "answer_start": 35
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_013",
+                "is_impossible": false,
+                "question": "Who are the members of the GST Council?",
+                "answers": [
+                    {
+                        "text": "representatives from both central and state governments",
+                        "answer_start": 102
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST is divided into three components: CGST (Central GST), SGST (State GST), and IGST (Integrated GST). Each is applied depending on whether the transaction is intra-state or inter-state.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_014",
+                "is_impossible": false,
+                "question": "What are the components of GST?",
+                "answers": [
+                    {
+                        "text": "CGST (Central GST), SGST (State GST), and IGST (Integrated GST)",
+                        "answer_start": 33
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_015",
+                "is_impossible": false,
+                "question": "When is CGST and SGST applied?",
+                "answers": [
+                    {
+                        "text": "intra-state",
+                        "answer_start": 125
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_016",
+                "is_impossible": false,
+                "question": "When is IGST applied?",
+                "answers": [
+                    {
+                        "text": "inter-state",
+                        "answer_start": 137
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Input Tax Credit (ITC) is a major feature of GST, allowing businesses to claim credit for the GST paid on purchases, thereby reducing their overall tax liability.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_017",
+                "is_impossible": false,
+                "question": "What is Input Tax Credit (ITC)?",
+                "answers": [
+                    {
+                        "text": "allowing businesses to claim credit for the GST paid on purchases",
+                        "answer_start": 45
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_018",
+                "is_impossible": false,
+                "question": "How does ITC benefit businesses?",
+                "answers": [
+                    {
+                        "text": "reducing their overall tax liability",
+                        "answer_start": 94
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "GST promotes a transparent tax system by using a robust IT infrastructure. Every invoice is tracked and matched to ensure compliance and prevent tax evasion.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_019",
+                "is_impossible": false,
+                "question": "How does GST promote transparency?",
+                "answers": [
+                    {
+                        "text": "by using a robust IT infrastructure",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_020",
+                "is_impossible": false,
+                "question": "What is tracked under the GST system?",
+                "answers": [
+                    {
+                        "text": "Every invoice",
+                        "answer_start": 66
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_021",
+                "is_impossible": false,
+                "question": "What does invoice tracking ensure under GST?",
+                "answers": [
+                    {
+                        "text": "compliance and prevent tax evasion",
+                        "answer_start": 93
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "E-way bills are an integral part of GST, ensuring smooth movement of goods across state borders. These bills are generated online and are mandatory for transporting goods exceeding a specific value.",
+        "qas": [
+            {
+                "id": "GST_FEATURE_022",
+                "is_impossible": false,
+                "question": "What are e-way bills?",
+                "answers": [
+                    {
+                        "text": "ensuring smooth movement of goods across state borders",
+                        "answer_start": 36
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_023",
+                "is_impossible": false,
+                "question": "How are e-way bills generated?",
+                "answers": [
+                    {
+                        "text": "online",
+                        "answer_start": 98
+                    }
+                ]
+            },
+            {
+                "id": "GST_FEATURE_024",
+                "is_impossible": false,
+                "question": "When are e-way bills mandatory?",
+                "answers": [
+                    {
+                        "text": "for transporting goods exceeding a specific value",
+                        "answer_start": 115
+                    }
+                ]
+            }
+        ]
+    }
+]
